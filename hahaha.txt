@@ -4,3 +4,8 @@ bob change
 dev change222
 master change
 
+<<<<<<< HEAD
+=======
+dev push
+
+>>>>>>> dev
